@@ -3,5 +3,5 @@ Clone do Spotify para fins acadêmicos como desenvolvedor Front-end
 
 # Tecnologias utilizadas: 
 
--HTML
+-HTML <br>
 -CSS
